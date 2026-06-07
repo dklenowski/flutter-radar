@@ -25,11 +25,11 @@ apply plugin: 'kotlin-android'
 
 android {
     namespace 'io.radar.flutter'
-    compileSdkVersion 31
+    compileSdkVersion 36
 
     defaultConfig {
         minSdkVersion 16
-        targetSdkVersion 31
+        targetSdkVersion 36
         versionCode 1
         versionName '3.23.4'
     }
